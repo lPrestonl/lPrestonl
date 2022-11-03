@@ -7,7 +7,7 @@ System Administrator and Web Developer
 Since I was 12, I have worked on coding and system administration, starting with Minecraft servers and eventually learning other games. This has led me to my current project of launching my own game hosting company.
 
 * 🌍  I'm based in Atlanta, Georgia
-* ✉️  You can contact me at [preston.brackett@boba.cafe](mailto:preston.brackett@boba.cafe)
+* ✉️  You can contact me at [preston.brackett@lucidhost.co](mailto:preston.brackett@lucidhost.co)
 * 🧠  I'm learning JavaScript, HTML, CSS, and More
 
 ### Skills
